@@ -1,0 +1,18 @@
+.todoList {
+  margin: 15px;
+  border-top: 2px dotted black;
+}
+
+.todoList p {
+  display: inline-block;
+}
+
+.todoList button {
+  background-color: white;
+  border: none;
+}
+
+.finished {
+  text-decoration: line-through;
+  color: #ccc;
+}
