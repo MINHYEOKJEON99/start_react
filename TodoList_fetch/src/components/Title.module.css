@@ -1,0 +1,12 @@
+.title {
+  margin: 0px 15px;
+  padding-top: 15px;
+  font-size: 25px;
+}
+.paragraph {
+  margin: 0px;
+  padding-left: 15px;
+  padding-bottom: 20px;
+  font-size: 15px;
+  color: rgb(177, 176, 176);
+}
