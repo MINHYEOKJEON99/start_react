@@ -1,0 +1,32 @@
+.new_todo {
+  background-color: white;
+  height: 15%;
+  width: 50%;
+  margin: 5px auto;
+  border-radius: 20px;
+  padding-top: 10px;
+  text-align: center;
+}
+
+.new_todo input {
+  display: block;
+  border-radius: 5px;
+  margin: auto;
+  margin-top: 10px;
+  width: 50%;
+  height: 30%;
+}
+
+.new_todo button {
+  margin: 10px 5px;
+  width: 30%;
+  height: 30px;
+  background-color: aquamarine;
+  border: 1px solid aquamarine;
+  border-radius: 5px;
+  color: white;
+}
+
+.new_todo button:hover {
+  color: #ccc;
+}

@@ -1,0 +1,32 @@
+.App {
+  height: 768px;
+}
+
+.outline {
+  background-color: white;
+  width: 50%;
+  margin: 100px auto;
+  margin-bottom: 0px;
+  border-radius: 20px;
+  padding-bottom: 5px;
+}
+
+.buttonPosition {
+  text-align: center;
+}
+.button {
+  display: inline-block;
+  text-align: center;
+  border-radius: 60%;
+  color: white;
+  background-color: aquamarine;
+  border: 1px solid aquamarine;
+  padding: 10px;
+  margin-bottom: 5px;
+  font-size: medium;
+  width: 40px;
+}
+
+.button:hover {
+  color: #ccc;
+}
